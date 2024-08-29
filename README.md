@@ -8,9 +8,19 @@ Under review.
 
 ## How to Run
 
-### Train Mismatched Nodes Detection Model
+### Datasets
 
-Download dataset from [here](https://www.kaggle.com/datasets/meaner/rico240516/).
+[rico240516](https://www.kaggle.com/datasets/meaner/rico240516/).
+
+[end-pix2code-rico](https://www.kaggle.com/datasets/meaner/end-pix2code-rico)
+
+[end-pix2code-clay](https://www.kaggle.com/datasets/meaner/end-pix2code-clay)
+
+[end-pix2code-ours](https://www.kaggle.com/datasets/meaner/end-pix2code-ours)
+
+[end-pix2code-true](https://www.kaggle.com/datasets/meaner/end-pix2code-true)
+
+### Train Mismatched Nodes Detection Model
 
 ```
 pip install torcheval open_clip_torch
