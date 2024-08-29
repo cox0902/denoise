@@ -6,13 +6,11 @@ This repository contains the code and resources for the paper **"DropMismatch: R
 
 Under review.
 
-## Dataset
-
-Dataset will be avaliable later.
-
 ## How to Run
 
 ### Train Mismatched Nodes Detection Model
+
+Download dataset from [here](https://www.kaggle.com/datasets/meaner/rico240516/).
 
 ```
 pip install torcheval open_clip_torch
